@@ -1,8 +1,8 @@
 # SQL - Introduction
 
-In this project, we began working on relational databases. I started practising introductory SQL data definitions and data manipulation language, making subqueries, and using functions.
+In this project, we began working on relational databases. Started by practicing introductory SQL DDL and DML, making subqueries, and using functions.
 
-## Tasks :page_with_curl:
+## Tasks :
 
 * **0. List databases**
   * [0-list_databases.sql](./0-list_databases.sql): MySQL script that lists all databases.
@@ -29,7 +29,7 @@ In this project, we began working on relational databases. I started practising 
   * [6-list_values.sql](./6-list_values.sql): MySQL script that lists all rows of the table
   `first_table`.
 
-* **7. First add**
+* **7. First, add**
   * [7-insert_value.sql](./7-insert_value.sql): MySQL script that inserts a new row in the table `first_table`.
   * Description:
     * `id` = `89`
@@ -84,5 +84,5 @@ In this project, we began working on relational databases. I started practising 
 * **20. Temperature #2**
   * [103-max_state.sql](./103-max_state.sql): MySQL script that displays the max temperature of each state in order of state name.
   
-## Dump file :dolphin:
+## Dump file :dolphin
 * Tasks 101-103 query from the database [temperatures.sql](./temperatures.sql).
